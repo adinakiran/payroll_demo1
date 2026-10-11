@@ -1,0 +1,6 @@
+{
+  "name": "PayPilot AI",
+  "description": "Autonomous Payroll & Operations Platform with AI Diagnostic Engine, multi-vector reconciliation, and intelligent dispute resolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
